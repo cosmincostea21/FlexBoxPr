@@ -1,0 +1,25 @@
+img{
+    width: 200px;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+section{
+    border: 2px solid red;
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; /*Para que se centren todos los elementos hijos*/
+    align-items: center;
+    text-align: center;
+}
+
+article.tarjeta{
+    width: 30%;
+}
+p{
+    color: purple;
+}
