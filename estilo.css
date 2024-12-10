@@ -1,3 +1,10 @@
+nav{
+    background-color: antiquewhite;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
 img{
     width: 200px;
 }
